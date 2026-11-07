@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -45,12 +46,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
 <!---LeetCode Topics End-->
