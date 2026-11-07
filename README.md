@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -34,10 +35,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0067-add-binary/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +60,5 @@
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
