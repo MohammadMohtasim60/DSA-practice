@@ -64,4 +64,20 @@
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
