@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0067-add-binary/) | Easy |
+| [0257-binary-tree-paths](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0257-binary-tree-paths/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@
 | [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -84,6 +87,7 @@
 | [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -94,4 +98,8 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
