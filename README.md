@@ -67,20 +67,27 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
