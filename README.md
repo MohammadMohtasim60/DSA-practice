@@ -41,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -69,6 +70,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -80,6 +82,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -91,6 +94,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
