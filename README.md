@@ -21,6 +21,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0067-add-binary](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
