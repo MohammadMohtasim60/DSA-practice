@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -142,4 +143,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
