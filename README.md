@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -82,6 +83,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -95,6 +97,7 @@
 | [0100-same-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -109,6 +112,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
