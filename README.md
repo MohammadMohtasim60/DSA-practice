@@ -89,6 +89,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
