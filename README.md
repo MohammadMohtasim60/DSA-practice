@@ -10,6 +10,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0622-design-circular-queue](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0641-design-circular-deque/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -148,10 +149,23 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/MohammadMohtasim60/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
